@@ -1,1 +1,1 @@
-[Final project report](./parallel-red-black-tree/project_report.pdf)
+[Final project report](./project_report.pdf)
